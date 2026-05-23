@@ -149,7 +149,7 @@ Made with ❤️ and ☕ by **[Your Name]**
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 
 ---
-
+Coded By Paresh Prajapati
 ## ⭐ Show Your Support
 
 If you found this project helpful, please give it a ⭐ on GitHub! It motivates me to build more cool stuff! 🚀
